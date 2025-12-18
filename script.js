@@ -1,5 +1,5 @@
 // Адрес вашего развернутого контракта
-const contractAddress = '0x392dA0240F6fd85A1F70d37c9eb644F884990B42';
+const contractAddress = '0x72caB69A43248253F1fB5Df6BD3285Bd00dE7170';
 
 // ABI вашего контракта (можно взять тот набор, который формирует Remix)
 const contractAbi = [
@@ -49,4 +49,5 @@ if (window.ethereum) {
     };
 } else {
     alert('Установите MetaMask или другой кошелек.');
+
 }
