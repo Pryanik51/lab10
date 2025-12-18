@@ -51,3 +51,4 @@ if (window.ethereum) {
     alert('Установите MetaMask или другой кошелек.');
 
 }
+
